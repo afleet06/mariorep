@@ -3,7 +3,7 @@ body {
   font-family: "Delicious Handrawn", cursive;
   margin: 0;
   height: 100vh;
-  background-image: url("/images/bg.png");
+  background-image: url("images/bg.png");
   background-size: cover;
   animation: slidein 10s;
   animation-iteration-count: infinite;
