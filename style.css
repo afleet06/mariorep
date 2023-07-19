@@ -28,13 +28,13 @@ body {
 .container .btns {
   width: 100%;
   height: 3rem;
-  background-color: #ffd500;
+  background-color: #107c10;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 .container .btns a {
-  color: #ffffff;
+  color: #e91919;
   font-size: 2rem;
   text-shadow: 0 0 5px #ff8800;
 }
@@ -52,13 +52,13 @@ body {
 .container .cumple {
   width: 90%;
   font-family: "Nes Controller", sans-serif;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   font-weight: 900;
   z-index: 2;
   text-align: center;
-  color: #ffbf00;
+  color: #138dd4;
   margin: 0;
-  text-shadow: 0 0 10px #1c1a1a;
+  text-shadow: 0 0 10px #dd1515;
 }
 .container .personajes {
   width: 75%;
@@ -72,10 +72,10 @@ body {
   width: 20%;
 }
 .container .personajes .hongo {
-  width: 12%;
+  width: 32%;
 }
 .container .personajes .bowser {
-  width: 40%;
+  width: 90%;
 }
 .container .modalInvitacion {
   background-color: white;
@@ -95,7 +95,7 @@ body {
   padding: 0.5rem;
 }
 .container .modalContador {
-  background-color: white;
+  background-color:#107c10;
   border-radius: 10px;
   position: absolute;
   top: 30%;
@@ -117,13 +117,13 @@ body {
   font-size: 2em;
 }
 .container .contador {
-  background-color: rgb(255, 0, 0);
+  background-color:#107c10;
   position: absolute;
   width: 100%;
   top: 45%;
   display: flex;
   justify-content: space-around;
-  font-size: 1.2em;
+  font-size: 3.2em;
   font-weight: bold;
   color: white;
   -webkit-user-select: none;
