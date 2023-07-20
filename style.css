@@ -5,7 +5,7 @@ body {
   height: 100vh;
   background-image: url("images/bg.png");
   background-size: cover;
-  animation: slidein 10s;
+  animation: slidein 7s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
@@ -123,7 +123,7 @@ body {
   top: 45%;
   display: flex;
   justify-content: space-around;
-  font-size: 3.2em;
+  font-size: 1.2em;
   font-weight: bold;
   color: white;
   -webkit-user-select: none;
